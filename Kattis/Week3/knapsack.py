@@ -36,3 +36,5 @@ while len(input_lines) > 0:
   print(f'Max value: {max_value}, Chosen items: {chosen_items}')
   
 # The implementation works, but doesn't pass the Kattis exercise, since the problem is a bit weird.
+
+# methods to solve - resource to find solution and hints to kattis exercises and more
